@@ -21,6 +21,6 @@ Clique <a href="https://araujodai.github.io/formulary/">Aqui</a> para visualizar
 
 ### Ou
 
-Escaneie o QR code e visualize no seu celular:
+Escaneie o QR code e visualize no seu celular (projeto responsivo):
 
 <img height="300" width="300" src="https://user-images.githubusercontent.com/101216880/193940142-bd625346-6f27-476d-8e19-6fca0c2d9c8b.svg">

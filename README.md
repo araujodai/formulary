@@ -1,4 +1,4 @@
-# Rocket.sect
+# Fomulário de mentoria
 
 Primeiro desafio proposto durante o Stage 03 da trilha Explorer da Rocketseat.
 O desafio consiste em reproduzir o layout de um formulário de mentoria.
